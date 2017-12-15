@@ -94,6 +94,10 @@ hr {
   transform: translate(0, -3px) !important;
 }
 
+.child.selected .type {
+  background: rgba(255,255,255,.9) !important;
+}
+
 .type {
   background: #ffb3568f;
   color: #333;
